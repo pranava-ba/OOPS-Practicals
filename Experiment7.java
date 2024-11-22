@@ -1,3 +1,4 @@
+//program 7
 import java.util.Random;
 
 class RandomNumberGenerator implements Runnable {
