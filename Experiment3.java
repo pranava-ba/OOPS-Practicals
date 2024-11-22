@@ -1,3 +1,4 @@
+//program three
 import java.util.Scanner;
 
 // Employee class
