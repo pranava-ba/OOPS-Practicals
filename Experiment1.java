@@ -1,3 +1,4 @@
+//program one
 import java.util.Scanner;
 
 class ElectricityBill {
