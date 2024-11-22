@@ -1,4 +1,4 @@
-// Abstract class Shape
+//program four
 abstract class Shape {
     // Abstract method to print area
     public abstract void printArea();
